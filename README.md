@@ -33,7 +33,7 @@ Git clone git@github.com:Linda-Jerop/Week-1-code-challenge.git
 ```
 
 # Live Link
-[Git](gh-pages link)
+[Git](https://linda-jerop.github.io/Week-1-code-challenge/)
 
 ## Technologies used
 Github
